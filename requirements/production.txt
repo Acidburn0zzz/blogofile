@@ -9,7 +9,7 @@ Jinja2==2.6
 Mako==0.7.3
 Markdown==2.3
 MarkupSafe==0.15
-PyYAML==3.10
+PyYAML==5.4
 Pygments==1.6
 docutils==0.10
 pytz==2013b
